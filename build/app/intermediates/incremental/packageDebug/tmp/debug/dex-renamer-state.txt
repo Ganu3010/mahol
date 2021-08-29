@@ -1,0 +1,4 @@
+#Thu Jul 29 17:07:29 IST 2021
+base.0=G\:\\Development\\mahol\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
