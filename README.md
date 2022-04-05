@@ -8,3 +8,4 @@ First Year Project Based Learning.
 
 ### Note:
 This project has not been done under the supervision of a trained music therapist.
+We have used a library of soothing and calming songs and randomized them in order to help the user.
